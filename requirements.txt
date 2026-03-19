@@ -1,0 +1,3 @@
+cairosvg
+pillow
+# config is now loaded from config.json

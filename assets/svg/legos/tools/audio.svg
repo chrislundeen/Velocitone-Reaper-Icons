@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;">
+    <g id="Audio" transform="matrix(0.136364,0,0,0.136364,-4.5454,-4.5454)">
+        <path d="M300,50C321.522,50 340.63,63.772 347.433,84.189L500,541.887L552.567,384.19C559.37,363.77 578.48,350 600,350L733.333,350C751.743,350 766.667,364.923 766.667,383.333L766.667,416.667C766.667,435.077 751.743,450 733.333,450L636.037,450L547.433,715.81C540.63,736.23 521.52,750 500,750C478.48,750 459.37,736.23 452.567,715.81L300,258.114L247.434,415.81C240.628,436.23 221.522,450 200,450L66.667,450C48.257,450 33.333,435.077 33.333,416.667L33.333,383.333C33.333,364.923 48.257,350 66.667,350L163.962,350L252.566,84.189C259.372,63.772 278.478,50 300,50Z" style="stroke:rgb(222,222,222);stroke-width:35px;"/>
+    </g>
+</svg>

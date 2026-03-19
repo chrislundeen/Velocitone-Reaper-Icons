@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="BUSS" transform="matrix(2.5,0,0,2.5,-23.75,-25)">
+        <rect x="13.578" y="13.65" width="31.41" height="27.204"/>
+        <g id="Buss" transform="matrix(0.05,0,0,0.05,9.5,10)">
+            <path d="M650,0L150,0C67.188,0 0,67.138 0,150L0,650C0,677.637 22.363,700 50,700L100,700L100,750C100,777.637 122.363,800 150,800L200,800C227.637,800 250,777.637 250,750L250,700L550,700L550,750C550,777.637 572.363,800 600,800L650,800C677.637,800 700,777.637 700,750L700,700L750,700C777.637,700 800,677.637 800,650L800,150C800,67.188 732.862,0 650,0ZM200,550C172.362,550 150,527.637 150,500C150,472.363 172.362,450 200,450C227.637,450 250,472.363 250,500C250,527.637 227.637,550 200,550ZM600,550C572.363,550 550,527.637 550,500C550,472.363 572.363,450 600,450C627.637,450 650,472.363 650,500C650,527.637 627.637,550 600,550ZM700,300L100,300L100,150C100,122.363 122.363,100 150,100L650,100C677.637,100 700,122.363 700,150L700,300Z" style="fill:rgb(222,222,222);fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

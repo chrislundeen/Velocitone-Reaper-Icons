@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Channel-Strip" serif:id="Channel Strip" transform="matrix(0.195313,0,0,0.195313,0,-9.76504e-05)">
+        <rect x="424" y="24" width="48" height="52" style="fill:rgb(222,222,222);"/>
+        <rect x="424" y="188" width="48" height="300" style="fill:rgb(222,222,222);"/>
+        <path d="M484.79,100L411.212,100C396.188,100 384,112.188 384,127.211L384,136.789C384,151.812 396.188,163.999 411.211,163.999L484.789,163.999C499.812,163.999 511.999,151.812 511.999,136.789L511.999,127.211C512,112.188 499.813,100 484.79,100Z" style="fill:rgb(222,222,222);fill-rule:nonzero;"/>
+        <rect x="231.985" y="24" width="48" height="276.641" style="fill:rgb(222,222,222);"/>
+        <rect x="231.985" y="412.641" width="48" height="75.359" style="fill:rgb(222,222,222);"/>
+        <path d="M292.774,324.641L219.196,324.641C204.173,324.641 191.986,336.828 191.986,351.852L191.986,361.43C191.986,376.454 204.173,388.641 219.196,388.641L292.774,388.641C307.797,388.641 319.985,376.454 319.985,361.43L319.985,351.852C319.985,336.828 307.797,324.641 292.774,324.641Z" style="fill:rgb(222,222,222);fill-rule:nonzero;"/>
+        <rect x="40" y="308" width="48" height="180" style="fill:rgb(222,222,222);"/>
+        <rect x="40" y="24" width="48" height="172" style="fill:rgb(222,222,222);"/>
+        <path d="M100.79,220L27.211,220C12.188,220 0,232.188 0,247.211L0,256.789C0,271.813 12.188,284 27.211,284L100.789,284C115.812,284 127.999,271.813 127.999,256.79L127.999,247.212C128,232.188 115.813,220 100.79,220Z" style="fill:rgb(222,222,222);fill-rule:nonzero;"/>
+    </g>
+</svg>
